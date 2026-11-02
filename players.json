@@ -1,0 +1,46 @@
+{
+  "players": [
+    {
+      "name": "Kỷ Niệm Buồn",
+      "tag": "duma1",
+      "last_match_id": "VN2_1462321019",
+      "rankTier": "DIAMOND IV",
+      "rankLP": 0
+    },
+    {
+      "name": "PeoPeoVn",
+      "tag": "shade",
+      "last_match_id": "VN2_1462281073",
+      "rankTier": "PLATINUM II",
+      "rankLP": 65
+    },
+    {
+      "name": "Nwngs Và Gió",
+      "tag": "Ngaos",
+      "last_match_id": "VN2_1462321019",
+      "rankTier": "DIAMOND II",
+      "rankLP": 44
+    },
+    {
+      "name": "BlackAnubis",
+      "tag": "18099",
+      "last_match_id": "VN2_1448385191",
+      "rankTier": "PLATINUM II",
+      "rankLP": 0
+    },
+    {
+      "name": "nhincaideogi",
+      "tag": "WJDG",
+      "last_match_id": "VN2_1461002806",
+      "rankTier": "EMERALD IV",
+      "rankLP": 20
+    },
+    {
+      "name": "Arceus",
+      "tag": "907",
+      "last_match_id": "VN2_1405878708",
+      "rankTier": "GOLD II",
+      "rankLP": 58
+    }
+  ]
+}
